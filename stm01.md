@@ -1,7 +1,7 @@
 ```uml
 @startuml
 
- state 商品 {
+ state left 商品 {
 商品詳細 : do/商品の詳細を表示
 商品一覧 : do/商品の一覧を表示
 }
